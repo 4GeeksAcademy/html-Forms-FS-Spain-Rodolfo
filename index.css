@@ -1,0 +1,34 @@
+body {
+    padding: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.formBox {
+    border: 1px solid rgb(169, 166, 166); border-radius: 5px;
+    padding: 5px;
+}
+.headerForm {
+    background-color: rgb(212, 212, 212);
+}
+hr {
+    color:rgb(169, 166, 166) ;
+}
+.headerForm h1 {
+    padding: 5px;
+}
+.alertBox {
+    background-color: rgb(250, 193, 193);
+    border: 1px solid rgb(247, 155, 155); border-radius: 5px;
+    margin: 10px;
+}
+.alertBox p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif; color: rgb(118, 51, 51);
+    margin: 5px;
+}
+.footer {
+    display: flex;
+    justify-content: flex-end;
+    }
+.footer button {
+    margin-right: 5px;
+    margin-bottom: 10px;
+}
